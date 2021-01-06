@@ -1,4 +1,4 @@
-[![Hello, World!]](/logos/The Exc.png)
+[![Hello](logos/logo.png)]
 
 # ExclaBites
 
